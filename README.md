@@ -6,7 +6,7 @@ When using https/ssl html5 input type file for camera use, as soon as you take a
 npm install  
 npm start  
 
-**Browse to url with safari on IPadOS 13.x**
+**Browse to url with safari on IPadOS 13.x**  
 https://localhost:8100
 
 use file input and take a picture.
