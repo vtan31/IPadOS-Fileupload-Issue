@@ -6,7 +6,7 @@ When using https/ssl html5 input type file for camera use, as soon as you take a
 npm install  
 npm start  
 
-**A external url will be given in the termainal, browse with safari on IPadOS 13.x**  
+**An external url will be given in the termainal, browse with safari on IPadOS 13.x**  
 
 use file input and take a picture.
 
@@ -17,7 +17,7 @@ page reloads shortly after.
 **In your terminal**  
 npm run start-nossl  
 
-**A external url will be given in the terminal, browse with safari on IPadOS 13.x**    
+**An external url will be given in the terminal, browse with safari on IPadOS 13.x**    
 
 use file input and take a picture.  
 
