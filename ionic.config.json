@@ -1,0 +1,7 @@
+{
+  "name": "BaseNgIonicPWA",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
